@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576087164 source:f:\shotestpath\shor\main.cpp
+	"graph.h"
+	"graph.cpp"
+	<bits/stdc++.h>
+
+1576087246 f:\shotestpath\shor\graph.h
+	<unordered_map>
+	<vector>
+
+1576087246 f:\shotestpath\shor\graph.cpp
+	"graph.h"
+	<set>
+	<utility>
+	<bits/stdc++.h>
+
